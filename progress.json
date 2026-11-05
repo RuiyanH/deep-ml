@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T05:27:53.001Z",
+  "generated_at": "2026-11-05T05:40:08.624Z",
   "items": {
     "problem:881": {
       "kind": "problem",
@@ -91,6 +91,19 @@
       "last_pushed_at": "2026-11-05T05:27:52.413Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:899": {
+      "kind": "problem",
+      "id": "899",
+      "title": "Build a Dataset and Use It with a DataLoader",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/899",
+      "path": "problems/0899-build-a-dataset-and-use-it-with-a-dataloader",
+      "first_solved_at": "2026-11-05T05:40:08.060Z",
+      "last_pushed_at": "2026-11-05T05:40:08.060Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
